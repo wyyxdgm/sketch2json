@@ -1,5 +1,5 @@
 # build artifacts
-my-plugin.sketchplugin
+sketch2json.sketchplugin
 
 # npm
 node_modules
